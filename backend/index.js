@@ -10,7 +10,7 @@ const doctor = require("./routes/doctor");
 const caretaker = require("./routes/caretaker");
 
 
-const port = 3000;
+const port = 80;
 
 
 const app = express();
